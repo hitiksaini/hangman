@@ -1,4 +1,4 @@
-# Hangman-Games ❓🔠
+# Hangman-Game ❓🔠
 
 ## Project by [Hitik Saini](https://hitik20.tech)
 
