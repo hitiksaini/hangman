@@ -7,4 +7,4 @@ The [webpage](https://hitiksaini.github.io/Hangman-Game/) will guess a random wo
 The word to guess is represented by a row of dashes, representing each letter of the word. In most variants, proper nouns, such as names, places, and brands, are not allowed. Slang words, sometimes referred to as informal or shortened words, are also not allowed. If the guessing player suggests a letter which occurs in the word, the other player writes it in all its correct positions
 
 
-## Try it 😊
+<b> [Click]() to play</b>
